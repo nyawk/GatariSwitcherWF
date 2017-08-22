@@ -20,7 +20,7 @@ namespace GatariSwitcherWF
         bool certStatus = false;
         bool servStatus = false;
 
-        string gatariAddress = "173.212.240.174";
+        string gatariAddress = "163.172.255.98";
 
         public Form1()
         {
