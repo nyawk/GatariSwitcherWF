@@ -4,7 +4,7 @@ namespace GatariSwitcher
 {
     static class GeneralHelper
     {
-        const string serverAddressUrl = @"https://osu.gatari.pw/api/v1/ip";
+        const string serverAddressUrl = @"http://osu.gatari.pw/api/v1/ip";
 
         public static string GetGatariAddress()
         {
